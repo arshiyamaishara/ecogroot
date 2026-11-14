@@ -2,7 +2,11 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import type { StoreFile } from "./types";
 
-const DATA_DIR = path.join(process.cwd(), ".data");
+// Use /tmp on Netlify (production) to avoid read-only file system crashes
+const DATA_DIR = process.env.NODE_ENV === "production"
+  ? "/tmp/.data"
+  : path.join(process.cwd(), ".data");
+  
 const STORE_PATH = path.join(DATA_DIR, "store.json");
 
 function emptyStore(): StoreFile {
