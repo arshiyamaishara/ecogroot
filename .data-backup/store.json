@@ -1,0 +1,791 @@
+{
+  "users": {
+    "user_mufn5ss5_q3pfrf": {
+      "id": "user_mufn5ss5_q3pfrf",
+      "displayName": "Free gardener",
+      "plan": "free",
+      "credits": 499999,
+      "chatsTotal": 4,
+      "cheapPathCount": 3,
+      "createdAt": "2026-09-24T14:42:54.581Z",
+      "accessTier": "early"
+    },
+    "user_mufqajwd_3pzsae": {
+      "id": "user_mufqajwd_3pzsae",
+      "displayName": "Free gardener",
+      "plan": "free",
+      "credits": 499999,
+      "chatsTotal": 1,
+      "cheapPathCount": 1,
+      "createdAt": "2026-09-24T16:10:35.197Z",
+      "accessTier": "early"
+    },
+    "user_mufqfu30_xd0zmt": {
+      "id": "user_mufqfu30_xd0zmt",
+      "displayName": "Free gardener",
+      "plan": "free",
+      "credits": 500000,
+      "chatsTotal": 0,
+      "cheapPathCount": 0,
+      "createdAt": "2026-09-24T16:14:41.676Z",
+      "accessTier": "early"
+    },
+    "user_mufqjpcp_xh4wm6": {
+      "id": "user_mufqjpcp_xh4wm6",
+      "displayName": "Free gardener",
+      "plan": "free",
+      "credits": 500000,
+      "chatsTotal": 0,
+      "cheapPathCount": 0,
+      "createdAt": "2026-09-24T16:17:42.169Z",
+      "accessTier": "early"
+    },
+    "user_mufqwgxh_41cvm7": {
+      "id": "user_mufqwgxh_41cvm7",
+      "displayName": "Free gardener",
+      "plan": "free",
+      "credits": 499999,
+      "chatsTotal": 2,
+      "cheapPathCount": 2,
+      "createdAt": "2026-09-24T16:27:37.781Z",
+      "accessTier": "early"
+    },
+    "user_mujtppdg_szw9b7": {
+      "id": "user_mujtppdg_szw9b7",
+      "displayName": "Arshiya",
+      "plan": "free",
+      "credits": 499999,
+      "chatsTotal": 3,
+      "cheapPathCount": 3,
+      "createdAt": "2026-09-27T12:57:25.684Z",
+      "accessTier": "early"
+    },
+    "user_mw3tibre_z1t8od": {
+      "id": "user_mw3tibre_z1t8od",
+      "displayName": "Arshiya",
+      "plan": "free",
+      "credits": 500000,
+      "chatsTotal": 0,
+      "cheapPathCount": 0,
+      "createdAt": "2026-11-05T17:26:47.306Z",
+      "accessTier": "early"
+    },
+    "user_mw3tj6x8_cmgupk": {
+      "id": "user_mw3tj6x8_cmgupk",
+      "displayName": "Arshiya",
+      "plan": "free",
+      "credits": 500000,
+      "chatsTotal": 0,
+      "cheapPathCount": 0,
+      "createdAt": "2026-11-05T17:27:27.692Z",
+      "accessTier": "early"
+    }
+  },
+  "sessions": {
+    "sess_mufn5ss5_6fcep9": "user_mufn5ss5_q3pfrf",
+    "sess_mufqajwd_6lu4dl": "user_mufqajwd_3pzsae",
+    "sess_mufqfu30_5j62qh": "user_mufqfu30_xd0zmt",
+    "sess_mufqjpcp_oipj7k": "user_mufqjpcp_xh4wm6",
+    "sess_mufqwgxh_xdbmzz": "user_mufqwgxh_41cvm7",
+    "sess_mujtppdg_ca8wmz": "user_mujtppdg_szw9b7",
+    "sess_mw3tibre_21o3x9": "user_mw3tibre_z1t8od",
+    "sess_mw3tj6x8_hrhi2j": "user_mw3tj6x8_cmgupk"
+  },
+  "memories": {
+    "user_mufn5ss5_q3pfrf": [
+      {
+        "id": "mem_mufn5ss5_ohcf4r",
+        "title": "Open Limited free",
+        "body": "Welcome to the open Limited product. Cascade-Verify always runs a small free-tier model first, then a judge scores that answer — never the question alone — and escalates only on FAIL. That keeps easy chats on cheaper free quota. Quantization cuts GPU VRAM, not this creative memory.",
+        "pinned": true,
+        "source": "manual",
+        "createdAt": "2026-09-24T14:42:54.581Z"
+      }
+    ],
+    "user_mufqajwd_3pzsae": [
+      {
+        "id": "mem_mufqajwd_ax7vvg",
+        "title": "Open Limited free",
+        "body": "Welcome to the open Limited product. Cascade-Verify always runs a small free-tier model first, then a judge scores that answer — never the question alone — and escalates only on FAIL. That keeps easy chats on cheaper free quota. Quantization cuts GPU VRAM, not this creative memory.",
+        "pinned": true,
+        "source": "manual",
+        "createdAt": "2026-09-24T16:10:35.197Z"
+      }
+    ],
+    "user_mufqfu30_xd0zmt": [
+      {
+        "id": "mem_mufqfu30_w8wccs",
+        "title": "Open Limited free",
+        "body": "Welcome to the open Limited product. Cascade-Verify always runs a small free-tier model first, then a judge scores that answer — never the question alone — and escalates only on FAIL. That keeps easy chats on cheaper free quota. Quantization cuts GPU VRAM, not this creative memory.",
+        "pinned": true,
+        "source": "manual",
+        "createdAt": "2026-09-24T16:14:41.676Z"
+      }
+    ],
+    "user_mufqjpcp_xh4wm6": [
+      {
+        "id": "mem_mufqjpcp_0r7ifb",
+        "title": "Open Limited free",
+        "body": "Welcome to the open Limited product. Cascade-Verify always runs a small free-tier model first, then a judge scores that answer — never the question alone — and escalates only on FAIL. That keeps easy chats on cheaper free quota. Quantization cuts GPU VRAM, not this creative memory.",
+        "pinned": true,
+        "source": "manual",
+        "createdAt": "2026-09-24T16:17:42.169Z"
+      }
+    ],
+    "user_mufqwgxh_41cvm7": [
+      {
+        "id": "mem_mufqwgxh_fhca7f",
+        "title": "Open Limited free",
+        "body": "Welcome to the open Limited product. Cascade-Verify always runs a small free-tier model first, then a judge scores that answer — never the question alone — and escalates only on FAIL. That keeps easy chats on cheaper free quota. Quantization cuts GPU VRAM, not this creative memory.",
+        "pinned": true,
+        "source": "manual",
+        "createdAt": "2026-09-24T16:27:37.781Z"
+      }
+    ],
+    "user_mujtppdg_szw9b7": [
+      {
+        "id": "mem_mujtppdg_573q8q",
+        "title": "Open Limited free",
+        "body": "Welcome to the open Limited product. Cascade-Verify always runs a small free-tier model first, then a judge scores that answer — never the question alone — and escalates only on FAIL. That keeps easy chats on cheaper free quota. Quantization cuts GPU VRAM, not this creative memory.",
+        "pinned": true,
+        "source": "manual",
+        "createdAt": "2026-09-27T12:57:25.684Z"
+      }
+    ],
+    "user_mw3tibre_z1t8od": [
+      {
+        "id": "mem_mw3tibre_gumzn2",
+        "title": "Open Limited free",
+        "body": "Welcome to the open Limited product. Cascade-Verify always runs a small free-tier model first, then a judge scores that answer — never the question alone — and escalates only on FAIL. That keeps easy chats on cheaper free quota. Quantization cuts GPU VRAM, not this creative memory.",
+        "pinned": true,
+        "source": "manual",
+        "createdAt": "2026-11-05T17:26:47.306Z"
+      }
+    ],
+    "user_mw3tj6x8_cmgupk": [
+      {
+        "id": "mem_mw3tj6x8_ktt55o",
+        "title": "Open Limited free",
+        "body": "Welcome to the open Limited product. Cascade-Verify always runs a small free-tier model first, then a judge scores that answer — never the question alone — and escalates only on FAIL. That keeps easy chats on cheaper free quota. Quantization cuts GPU VRAM, not this creative memory.",
+        "pinned": true,
+        "source": "manual",
+        "createdAt": "2026-11-05T17:27:27.692Z"
+      }
+    ]
+  },
+  "chats": {
+    "user_mufn5ss5_q3pfrf": [
+      {
+        "id": "msg_mufn6390_jno8p5",
+        "role": "user",
+        "content": "what is the time now",
+        "createdAt": "2026-09-24T14:43:08.148Z"
+      },
+      {
+        "id": "msg_mufn6390_p0kg5u",
+        "role": "assistant",
+        "content": "The current time is 11:32 AM.",
+        "createdAt": "2026-09-24T14:43:08.148Z",
+        "cascade": {
+          "usedCheapPath": true,
+          "escalated": false,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 1,
+          "creditCostBeforeEco": 1,
+          "modelSource": "ovhcloud",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (ovhcloud)",
+              "output": "The current time is 11:32 AM."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 6 words, keyword coverage 100% (1/1), score 80/100.",
+              "verdict": "pass",
+              "reason": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 6 words, keyword coverage 100% (1/1), score 80/100.",
+              "score": 80
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model — skipped",
+              "output": "Judgy passed. No escalation. Usage stays on the cheap path.",
+              "skipped": true
+            }
+          ],
+          "impact": {
+            "tokensIn": 7,
+            "tokensOut": 8,
+            "costUsdEstimate": 0.0000076,
+            "energyKwhEstimate": 0.0000013125000000000001,
+            "co2gEstimate": 0.0005053125,
+            "waterMlEstimate": 0.0024937500000000003,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "The current time is 11:32 AM."
+        }
+      },
+      {
+        "id": "msg_mufn6fp1_9toca0",
+        "role": "user",
+        "content": "of which country?",
+        "createdAt": "2026-09-24T14:43:24.277Z"
+      },
+      {
+        "id": "msg_mufn6fp1_rzlshg",
+        "role": "assistant",
+        "content": "I'm not sure what you're referring to. Could you please provide more context or specify what you'd like to know about?",
+        "createdAt": "2026-09-24T14:43:24.277Z",
+        "cascade": {
+          "usedCheapPath": false,
+          "escalated": true,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 4,
+          "creditCostBeforeEco": 5,
+          "modelSource": "kilo",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (llm7)",
+              "output": "The United States."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy FAIL: too thin (3 words); misses task keywords: country; score 0/100 (need ≥50). Escalate to the large model.",
+              "verdict": "fail",
+              "reason": "Judgy FAIL: too thin (3 words); misses task keywords: country; score 0/100 (need ≥50). Escalate to the large model.",
+              "score": 0
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model escalated (kilo)",
+              "output": "I'm not sure what you're referring to. Could you please provide more context or specify what you'd like to know about?"
+            }
+          ],
+          "impact": {
+            "tokensIn": 4,
+            "tokensOut": 31,
+            "costUsdEstimate": 0.000112,
+            "energyKwhEstimate": 0.000020850000000000002,
+            "co2gEstimate": 0.008027250000000001,
+            "waterMlEstimate": 0.039615000000000004,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "I'm not sure what you're referring to. Could you please provide more context or specify what you'd like to know about?"
+        }
+      },
+      {
+        "id": "msg_mufn6tsu_2bil6x",
+        "role": "user",
+        "content": "time in chattogram bd",
+        "createdAt": "2026-09-24T14:43:42.558Z"
+      },
+      {
+        "id": "msg_mufn6tsu_ynngcf",
+        "role": "assistant",
+        "content": "The current time in Chattogram, Bangladesh is 12:00 PM (UTC+6).",
+        "createdAt": "2026-09-24T14:43:42.558Z",
+        "cascade": {
+          "usedCheapPath": true,
+          "escalated": false,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 1,
+          "creditCostBeforeEco": 1,
+          "modelSource": "llm7",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (llm7)",
+              "output": "The current time in Chattogram, Bangladesh is 12:00 PM (UTC+6)."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 10 words, keyword coverage 100% (2/2), score 98/100.",
+              "verdict": "pass",
+              "reason": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 10 words, keyword coverage 100% (2/2), score 98/100.",
+              "score": 98
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model — skipped",
+              "output": "Judgy passed. No escalation. Usage stays on the cheap path.",
+              "skipped": true
+            }
+          ],
+          "impact": {
+            "tokensIn": 5,
+            "tokensOut": 13,
+            "costUsdEstimate": 0.0000098,
+            "energyKwhEstimate": 0.000001575,
+            "co2gEstimate": 0.000606375,
+            "waterMlEstimate": 0.0029925,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "The current time in Chattogram, Bangladesh is 12:00 PM (UTC+6)."
+        }
+      },
+      {
+        "id": "msg_mufn7btf_5aqgkm",
+        "role": "user",
+        "content": "capital of USA",
+        "createdAt": "2026-09-24T14:44:05.907Z"
+      },
+      {
+        "id": "msg_mufn7btf_4w9oug",
+        "role": "assistant",
+        "content": "The capital of the USA is Washington, D.C.",
+        "createdAt": "2026-09-24T14:44:05.907Z",
+        "cascade": {
+          "usedCheapPath": true,
+          "escalated": false,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 1,
+          "creditCostBeforeEco": 1,
+          "modelSource": "llm7",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (llm7)",
+              "output": "The capital of the USA is Washington, D.C."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 8 words, keyword coverage 100% (1/1), score 98/100.",
+              "verdict": "pass",
+              "reason": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 8 words, keyword coverage 100% (1/1), score 98/100.",
+              "score": 98
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model — skipped",
+              "output": "Judgy passed. No escalation. Usage stays on the cheap path.",
+              "skipped": true
+            }
+          ],
+          "impact": {
+            "tokensIn": 4,
+            "tokensOut": 10,
+            "costUsdEstimate": 0.0000076,
+            "energyKwhEstimate": 0.0000012249999999999997,
+            "co2gEstimate": 0.0004716249999999999,
+            "waterMlEstimate": 0.0023274999999999993,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "The capital of the USA is Washington, D.C."
+        }
+      }
+    ],
+    "user_mufqajwd_3pzsae": [
+      {
+        "id": "msg_mufqb14h_z8chz0",
+        "role": "user",
+        "content": "what is the capital of autralia",
+        "createdAt": "2026-09-24T16:10:57.521Z"
+      },
+      {
+        "id": "msg_mufqb14h_f4co4x",
+        "role": "assistant",
+        "content": "The capital of Australia is Canberra. It was established in 1908 as a compromise between Sydney and Melbourne, which were competing to be the nation's capital. Canberra is located in the Australian Capital Territory and is known for its planned layout and significant government buildings.",
+        "createdAt": "2026-09-24T16:10:57.521Z",
+        "cascade": {
+          "usedCheapPath": true,
+          "escalated": false,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 1,
+          "creditCostBeforeEco": 1,
+          "modelSource": "llm7",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (llm7)",
+              "output": "The capital of Australia is Canberra. It was established in 1908 as a compromise between Sydney and Melbourne, which were competing to be the nation's capital. Canberra is located in the Australian Capital Territory and is known for its planned layout and significant government buildings."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 45 words, keyword coverage 50% (1/2), score 78/100.",
+              "verdict": "pass",
+              "reason": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 45 words, keyword coverage 50% (1/2), score 78/100.",
+              "score": 78
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model — skipped",
+              "output": "Judgy passed. No escalation. Usage stays on the cheap path.",
+              "skipped": true
+            }
+          ],
+          "impact": {
+            "tokensIn": 8,
+            "tokensOut": 59,
+            "costUsdEstimate": 0.0000386,
+            "energyKwhEstimate": 0.0000058625,
+            "co2gEstimate": 0.0022570625,
+            "waterMlEstimate": 0.011138750000000001,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "The capital of Australia is Canberra. It was established in 1908 as a compromise between Sydney and Melbourne, which were competing to be the nation's capital. Canberra is located in the Australian Capital Territory and is known for its planned layout and significant government buildings."
+        }
+      }
+    ],
+    "user_mufqfu30_xd0zmt": [],
+    "user_mufqjpcp_xh4wm6": [],
+    "user_mufqwgxh_41cvm7": [
+      {
+        "id": "msg_mujtlnae_ohvbg5",
+        "role": "user",
+        "content": "who is donald trump?",
+        "createdAt": "2026-09-27T12:54:16.358Z"
+      },
+      {
+        "id": "msg_mujtlnae_dv4r4j",
+        "role": "assistant",
+        "content": "Donald Trump is a businessman and former politician who served as the 45th President of the United States from 2017 to 2021. He is known for his real estate ventures, television appearances, and his political career, which included serving as the 45th U.S. President. Trump is a Republican and has been a prominent figure in American politics.",
+        "createdAt": "2026-09-27T12:54:16.358Z",
+        "cascade": {
+          "usedCheapPath": true,
+          "escalated": false,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 1,
+          "creditCostBeforeEco": 1,
+          "modelSource": "llm7",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (llm7)",
+              "output": "Donald Trump is a businessman and former politician who served as the 45th President of the United States from 2017 to 2021. He is known for his real estate ventures, television appearances, and his political career, which included serving as the 45th U.S. President. Trump is a Republican and has been a prominent figure in American politics."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 57 words, keyword coverage 100% (2/2), score 98/100.",
+              "verdict": "pass",
+              "reason": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 57 words, keyword coverage 100% (2/2), score 98/100.",
+              "score": 98
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model — skipped",
+              "output": "Judgy passed. No escalation. Usage stays on the cheap path.",
+              "skipped": true
+            }
+          ],
+          "impact": {
+            "tokensIn": 5,
+            "tokensOut": 74,
+            "costUsdEstimate": 0.000046399999999999996,
+            "energyKwhEstimate": 0.0000069124999999999995,
+            "co2gEstimate": 0.0026613124999999996,
+            "waterMlEstimate": 0.01313375,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "Donald Trump is a businessman and former politician who served as the 45th President of the United States from 2017 to 2021. He is known for his real estate ventures, television appearances, and his political career, which included serving as the 45th U.S. President. Trump is a Republican and has been a prominent figure in American politics."
+        }
+      },
+      {
+        "id": "msg_mujtng08_hy67o2",
+        "role": "user",
+        "content": "which country has the lowest sea level?",
+        "createdAt": "2026-09-27T12:55:40.232Z"
+      },
+      {
+        "id": "msg_mujtng08_lwnr40",
+        "role": "assistant",
+        "content": "The Dead Sea, located between Israel and Jordan, has the lowest elevation of any land on Earth, at approximately 430 meters below sea level.",
+        "createdAt": "2026-09-27T12:55:40.232Z",
+        "cascade": {
+          "usedCheapPath": true,
+          "escalated": false,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 1,
+          "creditCostBeforeEco": 1,
+          "modelSource": "llm7",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (llm7)",
+              "output": "The Dead Sea, located between Israel and Jordan, has the lowest elevation of any land on Earth, at approximately 430 meters below sea level."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 24 words, keyword coverage 67% (2/3), score 75/100.",
+              "verdict": "pass",
+              "reason": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 24 words, keyword coverage 67% (2/3), score 75/100.",
+              "score": 75
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model — skipped",
+              "output": "Judgy passed. No escalation. Usage stays on the cheap path.",
+              "skipped": true
+            }
+          ],
+          "impact": {
+            "tokensIn": 9,
+            "tokensOut": 31,
+            "costUsdEstimate": 0.000022199999999999998,
+            "energyKwhEstimate": 0.0000035,
+            "co2gEstimate": 0.0013475,
+            "waterMlEstimate": 0.00665,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "The Dead Sea, located between Israel and Jordan, has the lowest elevation of any land on Earth, at approximately 430 meters below sea level."
+        }
+      }
+    ],
+    "user_mujtppdg_szw9b7": [
+      {
+        "id": "msg_murydexz_knqu8y",
+        "role": "user",
+        "content": "give me a quantum equation",
+        "createdAt": "2026-10-03T05:29:59.783Z"
+      },
+      {
+        "id": "msg_murydexz_qyn08z",
+        "role": "assistant",
+        "content": "The Schrödinger equation is a fundamental equation in quantum mechanics: \\( i\\hbar \\frac{\\partial}{\\partial t} \\Psi(\\mathbf{r}, t) = \\hat{H} \\Psi(\\mathbf{r}, t) \\), where \\( \\Psi(\\mathbf{r}, t) \\) is the wave function, \\( \\hat{H} \\) is the Hamiltonian operator, \\( \\hbar \\) is the reduced Planck constant, and \\( i \\) is the imaginary unit.",
+        "createdAt": "2026-10-03T05:29:59.783Z",
+        "cascade": {
+          "usedCheapPath": true,
+          "escalated": false,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 1,
+          "creditCostBeforeEco": 1,
+          "modelSource": "llm7",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (llm7)",
+              "output": "The Schrödinger equation is a fundamental equation in quantum mechanics: \\( i\\hbar \\frac{\\partial}{\\partial t} \\Psi(\\mathbf{r}, t) = \\hat{H} \\Psi(\\mathbf{r}, t) \\), where \\( \\Psi(\\mathbf{r}, t) \\) is the wave function, \\( \\hat{H} \\) is the Hamiltonian operator, \\( \\hbar \\) is the reduced Planck constant, and \\( i \\) is the imaginary unit."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 53 words, keyword coverage 67% (2/3), score 85/100.",
+              "verdict": "pass",
+              "reason": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 53 words, keyword coverage 67% (2/3), score 85/100.",
+              "score": 85
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model — skipped",
+              "output": "Judgy passed. No escalation. Usage stays on the cheap path.",
+              "skipped": true
+            }
+          ],
+          "impact": {
+            "tokensIn": 7,
+            "tokensOut": 69,
+            "costUsdEstimate": 0.0000442,
+            "energyKwhEstimate": 0.000006649999999999999,
+            "co2gEstimate": 0.0025602499999999996,
+            "waterMlEstimate": 0.012634999999999999,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "The Schrödinger equation is a fundamental equation in quantum mechanics: \\( i\\hbar \\frac{\\partial}{\\partial t} \\Psi(\\mathbf{r}, t) = \\hat{H} \\Psi(\\mathbf{r}, t) \\), where \\( \\Psi(\\mathbf{r}, t) \\) is the wave function, \\( \\hat{H} \\) is the Hamiltonian operator, \\( \\hbar \\) is the reduced Planck constant, and \\( i \\) is the imaginary unit."
+        }
+      },
+      {
+        "id": "msg_muryeatu_mun06p",
+        "role": "user",
+        "content": "who are the current F1 drivers",
+        "createdAt": "2026-10-03T05:30:41.106Z"
+      },
+      {
+        "id": "msg_muryeatu_67qrow",
+        "role": "assistant",
+        "content": "The current Formula 1 drivers are Lewis Hamilton, Max Verstappen, Charles Leclerc, Sergio Pérez, George Russell, Carlos Sainz, Lando Norris, Esteban Ocon, Fernando Alonso, Lance Stroll, Pierre Gasly, Alexander Albon, Daniel Ricciardo, Nico Hülkenberg, Kevin Magnussen, Zhou Guanyu, and Mick Schumacher.",
+        "createdAt": "2026-10-03T05:30:41.106Z",
+        "cascade": {
+          "usedCheapPath": true,
+          "escalated": false,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 1,
+          "creditCostBeforeEco": 1,
+          "modelSource": "llm7",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (llm7)",
+              "output": "The current Formula 1 drivers are Lewis Hamilton, Max Verstappen, Charles Leclerc, Sergio Pérez, George Russell, Carlos Sainz, Lando Norris, Esteban Ocon, Fernando Alonso, Lance Stroll, Pierre Gasly, Alexander Albon, Daniel Ricciardo, Nico Hülkenberg, Kevin Magnussen, Zhou Guanyu, and Mick Schumacher."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 41 words, keyword coverage 100% (2/2), score 98/100.",
+              "verdict": "pass",
+              "reason": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 41 words, keyword coverage 100% (2/2), score 98/100.",
+              "score": 98
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model — skipped",
+              "output": "Judgy passed. No escalation. Usage stays on the cheap path.",
+              "skipped": true
+            }
+          ],
+          "impact": {
+            "tokensIn": 8,
+            "tokensOut": 53,
+            "costUsdEstimate": 0.000035,
+            "energyKwhEstimate": 0.0000053375,
+            "co2gEstimate": 0.0020549375,
+            "waterMlEstimate": 0.010141250000000001,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "The current Formula 1 drivers are Lewis Hamilton, Max Verstappen, Charles Leclerc, Sergio Pérez, George Russell, Carlos Sainz, Lando Norris, Esteban Ocon, Fernando Alonso, Lance Stroll, Pierre Gasly, Alexander Albon, Daniel Ricciardo, Nico Hülkenberg, Kevin Magnussen, Zhou Guanyu, and Mick Schumacher."
+        }
+      },
+      {
+        "id": "msg_muryfv0o_6blmm8",
+        "role": "user",
+        "content": "kevin magnussen, zhou guanyu and mick schumucher are not in f1 anymore",
+        "createdAt": "2026-10-03T05:31:53.928Z"
+      },
+      {
+        "id": "msg_muryfv0o_osawn4",
+        "role": "assistant",
+        "content": "Kevin Magnussen, Zhou Guanyu, and Mick Schumacher are not currently in Formula 1. Magnussen last raced in F1 in 2023 with Haas, Zhou Guanyu is a reserve driver for Alfa Romeo, and Mick Schumacher is a reserve driver for Haas.",
+        "createdAt": "2026-10-03T05:31:53.928Z",
+        "cascade": {
+          "usedCheapPath": true,
+          "escalated": false,
+          "ecoSkill": true,
+          "mode": "ultra-eco",
+          "creditsDebited": 1,
+          "creditCostBeforeEco": 1,
+          "modelSource": "llm7",
+          "difficulty": "easy",
+          "steps": [
+            {
+              "stage": "hint",
+              "label": "0. Judgy — cheap difficulty hint",
+              "output": "Judgy hint: short/simple ask. Bias toward keeping the cheap small-model path. Difficulty=easy; PASS threshold=50."
+            },
+            {
+              "stage": "small",
+              "label": "1. Small quantized-style model (llm7)",
+              "output": "Kevin Magnussen, Zhou Guanyu, and Mick Schumacher are not currently in Formula 1. Magnussen last raced in F1 in 2023 with Haas, Zhou Guanyu is a reserve driver for Alfa Romeo, and Mick Schumacher is a reserve driver for Haas."
+            },
+            {
+              "stage": "judge",
+              "label": "2. Judgy — scores the answer above",
+              "output": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 40 words, keyword coverage 71% (5/7), score 87/100.",
+              "verdict": "pass",
+              "reason": "Judgy PASS (threshold 50): scored the answer, not the prompt alone. 40 words, keyword coverage 71% (5/7), score 87/100.",
+              "score": 87
+            },
+            {
+              "stage": "large",
+              "label": "3. Large model — skipped",
+              "output": "Judgy passed. No escalation. Usage stays on the cheap path.",
+              "skipped": true
+            }
+          ],
+          "impact": {
+            "tokensIn": 16,
+            "tokensOut": 52,
+            "costUsdEstimate": 0.0000376,
+            "energyKwhEstimate": 0.00000595,
+            "co2gEstimate": 0.00229075,
+            "waterMlEstimate": 0.011304999999999999,
+            "note": "Estimates only — not measured energy, water, or carbon. Demo heuristics from token counts."
+          },
+          "finalAnswer": "Kevin Magnussen, Zhou Guanyu, and Mick Schumacher are not currently in Formula 1. Magnussen last raced in F1 in 2023 with Haas, Zhou Guanyu is a reserve driver for Alfa Romeo, and Mick Schumacher is a reserve driver for Haas."
+        }
+      }
+    ],
+    "user_mw3tibre_z1t8od": [],
+    "user_mw3tj6x8_cmgupk": []
+  },
+  "videos": {
+    "user_mufn5ss5_q3pfrf": [],
+    "user_mufqajwd_3pzsae": [],
+    "user_mufqfu30_xd0zmt": [],
+    "user_mufqjpcp_xh4wm6": [],
+    "user_mufqwgxh_41cvm7": [],
+    "user_mujtppdg_szw9b7": [],
+    "user_mw3tibre_z1t8od": [],
+    "user_mw3tj6x8_cmgupk": []
+  },
+  "waitlist": [],
+  "invites": {
+    "CANOPY-2026": {
+      "code": "CANOPY-2026",
+      "kind": "founding",
+      "label": "Founding canopy invite",
+      "maxUses": 500,
+      "usedCount": 0,
+      "createdAt": "2026-09-24T14:42:52.464Z"
+    }
+  },
+  "apiKeys": {}
+}
