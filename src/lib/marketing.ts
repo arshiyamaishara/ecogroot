@@ -1,3 +1,4 @@
+import { WAITLIST_WHATSAPP_PHONE_LOCAL } from "@/lib/contact";
 import {
   PLAN_CREDITS,
   PLAN_FEATURES,
@@ -352,7 +353,7 @@ export const FAQ_ITEMS = [
   },
   {
     q: "How does the waiting list WhatsApp notify work?",
-    a: "Submit the form on /waiting-list. The API builds a message with your name, email, interest, note, and list position, then targets WhatsApp 01852044051. Without API keys it opens a prefilled wa.me chat; with CallMeBot, Twilio, or a webhook URL it can auto-send.",
+    a: `Submit the form on /waiting-list. The API builds a message with your name, email, interest, note, and list position, then targets WhatsApp ${WAITLIST_WHATSAPP_PHONE_LOCAL}. Without API keys it opens a prefilled wa.me chat; with CallMeBot, Twilio, or a webhook URL it can auto-send.`,
   },
   {
     q: "Why are Pro and Master cheaper than typical AI tools?",
